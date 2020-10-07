@@ -13,7 +13,7 @@
       {
         "label": "Read The Blog",
         "link": "/blog",
-        "primary": false,
+        "primary": true,
         "arrow": true
       },
       {
