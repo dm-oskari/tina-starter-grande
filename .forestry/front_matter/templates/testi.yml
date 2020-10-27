@@ -1,9 +1,0 @@
----
-label: Testi
-hide_body: false
-fields:
-- name: nimi
-  type: text
-  config:
-    required: false
-  label: Nimi
